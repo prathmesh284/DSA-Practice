@@ -1,4 +1,4 @@
-//Rotate Right Linked List by K Elements
+//Sort Multi Node Linked List
 
 class Solution{
     static Node sortMultiNodeLinkedList(Node head) {

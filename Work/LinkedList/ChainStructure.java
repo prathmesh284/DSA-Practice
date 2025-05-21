@@ -1,4 +1,4 @@
-// Chained Linked List
+// Chained Structure from Doubly Linked List
 
 class Solution{
     static Node createChainStructure(Node head) {
