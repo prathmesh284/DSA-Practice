@@ -1,0 +1,13 @@
+- Assignment5
+    -> 9.Watering Plants
+    -> 12.Find the Middle Index in Array
+    -> 15.Corporate Flight Bookings
+    -> 19.
+- Assignment6
+    -> 15.Flip Columns For Maximum Number of Equal Rows
+    -> 17.Minimum Limit of Balls in a Bag
+    -> 20.Rabbits in Forest
+- Assignment7
+    -> 4.Array of Doubled Pairs
+    -> 8.Candy
+    -> 20.Greatest Common Divisor of Strings
