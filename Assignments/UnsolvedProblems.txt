@@ -11,3 +11,8 @@
     -> 4.Array of Doubled Pairs
     -> 8.Candy
     -> 20.Greatest Common Divisor of Strings
+- Assignment9
+    -> 6.Next Permutation (Recursive)
+    -> 8.Derangement (No Fixed Position)
+    -> 10.Partition into K Equal Sum Subsets
+    -> 12.Unique Paths in Grid with Obstacles
